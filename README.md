@@ -1,4 +1,5 @@
-# Alibaba_UserBehavior_Analysis
+# < img src='pics/Alibaba_Taobao_logo.png'>
+Alibaba_UserBehavior_Analysis
 
 ## Alibaba user behaviour through AARRR funnel model and RFM model
 
