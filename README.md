@@ -7,7 +7,7 @@
 Data contain about 1 million users who have behaviors including click, purchase, adding item to shopping cart and item favoring during November 25 to December 03, 2017. Each line represents a specific user-item interaction, which consists of user ID, item ID, item's category ID, behavior type and timestamp, separated by commas.
 
 ### Dimensions of the dataset
-<img src="pics/dimensions_of_the_dataset.png" width="400"> 
+<img src="pics/dimensions_of_the_dataset.png" width="600"> 
 
 
 ### Aims:
