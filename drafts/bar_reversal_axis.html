@@ -7,11 +7,11 @@
 
 </head>
 <body>
-    <div id="d8130408161e4ddeb994b7f3bc1a7ea5" class="chart-container" style="width:1000px; height:500px;"></div>
+    <div id="304713b3678e483f8b2d52174a82ca4a" class="chart-container" style="width:900px; height:500px;"></div>
     <script>
-        var chart_d8130408161e4ddeb994b7f3bc1a7ea5 = echarts.init(
-            document.getElementById('d8130408161e4ddeb994b7f3bc1a7ea5'), 'white', {renderer: 'canvas'});
-        var option_d8130408161e4ddeb994b7f3bc1a7ea5 = {
+        var chart_304713b3678e483f8b2d52174a82ca4a = echarts.init(
+            document.getElementById('304713b3678e483f8b2d52174a82ca4a'), 'white', {renderer: 'canvas'});
+        var option_304713b3678e483f8b2d52174a82ca4a = {
     "animation": true,
     "animationThreshold": 2000,
     "animationDuration": 1000,
@@ -49,104 +49,42 @@
     "series": [
         {
             "type": "bar",
-            "name": "pv",
+            "name": "Number of items",
             "data": [
-                258856,
-                260688,
-                246517,
-                242771,
-                247401,
-                251903,
-                264524,
-                334480,
-                328748
+                18,
+                37,
+                50,
+                97,
+                126,
+                237,
+                501,
+                1262,
+                4817,
+                38725
             ],
             "barCategoryGap": "20%",
             "label": {
                 "show": true,
-                "position": "top",
+                "position": "right",
                 "margin": 8
-            }
-        },
-        {
-            "type": "bar",
-            "name": "cart",
-            "data": [
-                17040,
-                18057,
-                16564,
-                16468,
-                16771,
-                17192,
-                18759,
-                23909,
-                23228
-            ],
-            "barCategoryGap": "20%",
-            "label": {
+            },
+            "rippleEffect": {
                 "show": true,
-                "position": "top",
-                "margin": 8
-            }
-        },
-        {
-            "type": "bar",
-            "name": "fav",
-            "data": [
-                9163,
-                9245,
-                8817,
-                8639,
-                8885,
-                9177,
-                9088,
-                12058,
-                11481
-            ],
-            "barCategoryGap": "20%",
-            "label": {
-                "show": true,
-                "position": "top",
-                "margin": 8
-            }
-        },
-        {
-            "type": "bar",
-            "name": "buy",
-            "data": [
-                5868,
-                5995,
-                6566,
-                6055,
-                6299,
-                6458,
-                6137,
-                7707,
-                7452
-            ],
-            "barCategoryGap": "20%",
-            "label": {
-                "show": true,
-                "position": "top",
-                "margin": 8
+                "brushType": "stroke",
+                "scale": 2.5,
+                "period": 4
             }
         }
     ],
     "legend": [
         {
             "data": [
-                "pv",
-                "cart",
-                "fav",
-                "buy"
+                "Number of items"
             ],
             "selected": {
-                "pv": true,
-                "cart": true,
-                "fav": true,
-                "buy": true
+                "Number of items": true
             },
-            "show": false,
+            "show": true,
             "padding": 5,
             "itemGap": 10,
             "itemWidth": 25,
@@ -185,18 +123,7 @@
                     "curveness": 0,
                     "type": "solid"
                 }
-            },
-            "data": [
-                "2017-11-25",
-                "2017-11-26",
-                "2017-11-27",
-                "2017-11-28",
-                "2017-11-29",
-                "2017-11-30",
-                "2017-12-01",
-                "2017-12-02",
-                "2017-12-03"
-            ]
+            }
         }
     ],
     "yAxis": [
@@ -219,18 +146,30 @@
                     "curveness": 0,
                     "type": "solid"
                 }
-            }
+            },
+            "data": [
+                "ten times",
+                "nine times",
+                "eight times",
+                "seven times",
+                "six times",
+                "five times",
+                "four times",
+                "three times",
+                "bought twice",
+                "bought once"
+            ]
         }
     ],
     "title": [
         {
-            "text": "Weekly : pv_cart_fav_buy",
+            "text": "items been bought",
             "padding": 5,
             "itemGap": 10
         }
     ]
 };
-        chart_d8130408161e4ddeb994b7f3bc1a7ea5.setOption(option_d8130408161e4ddeb994b7f3bc1a7ea5);
+        chart_304713b3678e483f8b2d52174a82ca4a.setOption(option_304713b3678e483f8b2d52174a82ca4a);
     </script>
 </body>
 </html>
