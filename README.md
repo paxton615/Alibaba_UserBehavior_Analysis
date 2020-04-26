@@ -22,7 +22,7 @@ Data contain about 1 million users who have behaviors including click, purchase,
 
 #### [1.Exploratory Data Analysis](https://github.com/paxton615/Alibaba_UserBehavior_Analysis/blob/master/Data%20_Info_%26_EDA.ipynb)
 
-#### [2.Funnel Analysis: Finding the Conversions]
+#### [2.Funnel Analysis: Find Conversion Rates]
 
 #### [3.User Behaviour in Different Time Scales]
 
