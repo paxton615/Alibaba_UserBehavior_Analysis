@@ -17,3 +17,16 @@ Data contain about 1 million users who have behaviors including click, purchase,
 #### 3. Find user preferences on different products, set up strategic promotions for certain products.
 #### 4. Find core paying users, do a through research on them.
 
+
+#### Navigating through the repository:
+
+#### [1.Exploratory Data Analysis]
+
+#### [2.Funnel Analysis: Finding the Conversions]
+
+#### [3.User Behaviour in Different Time Scales]
+
+#### [4.Uer Behaviour Regarding Items]
+
+#### [5.Identify Most Valuable Users via RFM]
+
