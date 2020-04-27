@@ -30,3 +30,6 @@ Data contain about 1 million users who have behaviors including click, purchase,
 
 #### [5.Identify Most Valuable Users via RFM]
 
+### Preview:
+<img src="pics/data_info.png" width="800"> 
+<img src="pics/funnel_chart.png" width="800"> 
