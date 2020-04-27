@@ -26,7 +26,7 @@ Data contain about 1 million users who have behaviors including click, purchase,
 
 #### [3.User Behaviour in Different Time Scales](https://github.com/paxton615/Alibaba_UserBehavior_Analysis/blob/master/User%20Behaviour%20in%20Different%20Time%20Scales.ipynb)
 
-#### [4.Uer Behaviour Regarding Items]
+#### [4.User Behaviour Regarding Items]
 
 #### [5.Identify Most Valuable Users via RFM]
 
