@@ -24,7 +24,7 @@ Data contain about 1 million users who have behaviors including click, purchase,
 
 #### [2.Funnel Analysis: Find Conversion Rates](https://github.com/paxton615/Alibaba_UserBehavior_Analysis/blob/master/Funnel%20Analysis_Find%20Conversion%20Rates.ipynb)
 
-#### [3.User Behaviour in Different Time Scales]
+#### [3.User Behaviour in Different Time Scales](https://github.com/paxton615/Alibaba_UserBehavior_Analysis/blob/master/User%20Behaviour%20in%20Different%20Time%20Scales.ipynb)
 
 #### [4.Uer Behaviour Regarding Items]
 
