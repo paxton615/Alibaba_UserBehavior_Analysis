@@ -32,6 +32,13 @@ Data contain about 1 million users who have behaviors including click, purchase,
 
 
 
-### * Preview:
+### * Some Findings:
 <img src="pics/data_info.png" width="800"> 
 <img src="pics/funnel_chart.png" width="800"> 
+<img src="pics/nov_28_status.png" width="800"> 
+<img src="pics/Top20_most_viewed.png" width="800"> 
+<img src="pics/user_rankings.png" width="800"> 
+
+
+
+
