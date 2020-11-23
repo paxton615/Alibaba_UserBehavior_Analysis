@@ -19,7 +19,7 @@ Data contain about 1 million users who have behaviors including click, purchase,
 
 #### [4.User Behaviour Regarding Items](https://github.com/paxton615/Alibaba_UserBehavior_Analysis/blob/master/User%20Behaviour%20Regarding%20Items.ipynb)
 
-#### [5.Identify Most Valuable Users via RFM](https://github.com/paxton615/Alibaba_UserBehavior_Analysis/blob/master/Find%20valuable%20users%20via%20RFM%20theory.ipynb)
+#### [5.Identify Most Valuable Users via RFM (Recency, Frequency, Monetary)](https://github.com/paxton615/Alibaba_UserBehavior_Analysis/blob/master/Find%20valuable%20users%20via%20RFM%20theory.ipynb)
 
 
 ### * Aims:
